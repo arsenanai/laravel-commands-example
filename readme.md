@@ -1,7 +1,7 @@
-Synchronize KATO
+# Synchronize KATO
 =======
 
-This programm was delevoped to synchronize KATO dictionaries, it is written in Laravel
+This programm was delevoped to synchronize Kazakhstani Classifier of administrative-territorial objects (KATO) dictionaries, uses Laravel's command line interface
 
 ## Software requirements
 
@@ -31,4 +31,4 @@ php artisan migrate:refresh --seed`
   4. after, you can synchronize _old_katos_ table according to changes in _new_katos_: 
 `
 php artisan kato:synchronize`
-  5. finally, you can export _old_katos_ table, in order to import it to _prod_eproc_ database
+  5. finally, you can export _old_katos_ table, in order to import it to _production_ database
