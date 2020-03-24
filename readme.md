@@ -1,7 +1,7 @@
 # Synchronize KATO
 =======
 
-This programm was delevoped to synchronize Kazakhstani Classifier of administrative-territorial objects (KATO) dictionaries, uses Laravel's command line interface
+This programm was delevoped to synchronize tables in laravel, uses Artisan console
 
 ## Software requirements
 
