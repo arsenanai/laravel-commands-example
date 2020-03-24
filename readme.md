@@ -1,5 +1,4 @@
 # Synchronize KATO
-=======
 
 This programm was delevoped to synchronize tables in laravel, uses Artisan console
 
